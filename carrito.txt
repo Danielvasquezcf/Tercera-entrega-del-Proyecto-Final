@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "timeStamp": 1665034518036,
+    "productos": [
+      {
+        "nombre": "Sueter",
+    "descripcion": "Sueter con diseño estampado",
+    "codigo": 0001,
+    "foto": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_700452-MLV43137189895_082020-W.jpg&imgrefurl=https%3A%2F%2Farticulo.mercadolibre.com.ve%2FMLV-566217662-sueteres-drew-justin-con-estampado-personalizado-_JM&tbnid=gtZPXfG_iaO0lM&vet=12ahUKEwj7i-uJg5f9AhXtAVkFHam-CBsQMyhPegUIARCGAQ..i&docid=w8KTzN1mvw4zZM&w=406&h=568&q=sueter%20con%20estampados&ved=2ahUKEwj7i-uJg5f9AhXtAVkFHam-CBsQMyhPegUIARCGAQ",
+    "precio": 19,99,
+    "stock": 100,
+    "id": 1,
+    "timeStamp": 312424512
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "timeStamp": 1665034505133,
+    "productos": []
+  }
+]

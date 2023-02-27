@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "Sueter",
+    "descripcion": "Sueter con diseño estampado",
+    "codigo": 0001,
+    "foto": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_700452-MLV43137189895_082020-W.jpg&imgrefurl=https%3A%2F%2Farticulo.mercadolibre.com.ve%2FMLV-566217662-sueteres-drew-justin-con-estampado-personalizado-_JM&tbnid=gtZPXfG_iaO0lM&vet=12ahUKEwj7i-uJg5f9AhXtAVkFHam-CBsQMyhPegUIARCGAQ..i&docid=w8KTzN1mvw4zZM&w=406&h=568&q=sueter%20con%20estampados&ved=2ahUKEwj7i-uJg5f9AhXtAVkFHam-CBsQMyhPegUIARCGAQ",
+    "precio": 19,99,
+    "stock": 100,
+    "id": 1,
+    "timeStamp": 312424512
+  },
+  {
+    "nombre": "Jean",
+    "descripcion": "Confeccionado con la mejor calidad",
+    "codigo": 0002,
+    "foto": "https://www.google.com/search?q=jean&sxsrf=AJOqlzX-myTd0IvPKahR-yXmYUOwQQYl6A:1676446748128&tbm=isch&source=iu&ictx=1&vet=1&fir=8e459lCbMSGooM%252CvWCx_9uBHE_KUM%252C%252Fm%252F0fly7%253BZFzo8rUDhbG9HM%252CBg9kXcT6b9XIfM%252C_%253BK-f_pg8dTFSWCM%252CIWJba8nC_ktMgM%252C_%253By_sxFLAt4pKpUM%252CxLJz7ExxLvfU2M%252C_%253BSMQW0l4qAZ0AoM%252CCtjW20vqoxs18M%252C_%253B_Kt32QNdqxoiNM%252CIpMKXlEvFwFv4M%252C_%253BRsJI9tj85dEyGM%252C7qLcGE28C3F1dM%252C_%253Bgo3gEwWQbxAJHM%252CIWJba8nC_ktMgM%252C_%253BhQZ7Jq5RPl1vLM%252CIpMKXlEvFwFv4M%252C_%253BqenciLGDR5CCcM%252Cemqn3SS20osqiM%252C_&usg=AI4_-kSYjzR1erv71DIXqGC6dJoonZMYnQ&sa=X&ved=2ahUKEwjzqaDngpf9AhUWk4kEHemLAs0Q_B16BAh0EAE#imgrc=8e459lCbMSGooM",
+    "precio": 9,99,
+    "stock": 100,
+    "id": 2,
+    "timeStamp": 54633332
+  },
+  {
+    "nombre": "Franela blanca",
+    "descripcion": "Franela 100% algodón",
+    "codigo": 0003,
+    "foto": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAHgAeAMBIgACEQEDEQH/xAAaAAEAAwEBAQAAAAAAAAAAAAAAAQIDBQQH/8QAMRAAAgEDAgUDAgQHAQAAAAAAAAECAxEhEjEEMkFRcSJhkROBFDOh0SNCUlNiscEF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A+4gAAA2lueepxdOLsrtgegrKUYK8mku7PHLiak8JaUY1NUlpk208MDqLIOYqlaCS12SXR/8ACsP/AENTa1yjbrKIHUlJQi5SdkurIhOM1eDTXscqdSrXksy0LeTx8BSlGb0u3gDrg8FPiqkeb1I1XHUtahJSjJ+1wPUCE01dZRIAAAClSpGCy89EVrzlCK0rfr2PNvl79wJqVJT8djJ9vfJpsVkr2KiUrYIkibYyAKSinzRuVjGlSV4U7N9luakWXYCG5SeVZdiiha98t5bNPsQBW18LBRQSm3ZJLFzUzSad8J92rgWVWVFrQ9+h7aPEQqYfpl2Z4FFX2bfcnvbZYuFdQGHCKX07ybzsmCDaUVKLTPHNaZactntMq8NUbrdAeZR98lZz0vZsmalOL+m7RWZS/YypJOTk3e2EVGibfNj2JIul0v4F79GvIEkAAQARq9gDdnlFXLK05uWyut0Zzpu6lSaT6p7MCz1vCsjShSUpKK2W5WnCtpUqkMSytKbse2hT+nDPM9wNFhEgEUAAFKi/hSS7M8MIaIJWPfPkfg5yjOKxPAFwQpXdnhh7pFZACt8gS3ZMq1cl5QWy2CkXjPQSlGKeSkpW5lgmlSUqsJPKTVkB1Iq0UuyJCBFAAAAAEPZnNjLvi7OjPkfg52NNm8ATJJ7vwQpPaW/+yErct7Ev3KiW9ivVD+fwietvkIh7Ai93gXawt2Bay2k1fsIemrTV1zL4MnCNsu77kRpWqRkpt2fUK7IAIoAAAAArPkfg5dLOV8nUqckvDOTqlJaY+mHfuBpKSi7L1SK6pS3TREVGOCeuGVE3s2yLv7vcb+Fki4RO6VvgKyu3t1KvMiHnAE6m3eRaO68lCYS9SXuFdgAEUAAAAAUrO1Gb/wAWclNyy9uh1q0XOlOMd2sHgXCVkuWPyBiS8Gj4etf8q/3X7j6FZv8AKfyv3KjNDrjY9EeHq9YJfdFY8JWXSPyB53zO2wZ6Pwta79Kt5IfC1v6P1QHnvb3Ie6a6NG/4Wv8A2/1RC4Os73h+qA6oIjfSr72ySRQAAAAAAAAAAAAAAAAAAAAAAAH/2Q==",
+    "precio": 4,99,
+    "stock": 100,
+    "timeStamp": 1547654345,
+    "id": 3
+  }
+]
